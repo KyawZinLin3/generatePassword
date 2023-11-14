@@ -26,3 +26,5 @@ function copyPassword() {
   passwordBox.select();
   document.execCommand("copy");
 }
+
+//first javascript program this is made me pushing going forward
